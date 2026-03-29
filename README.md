@@ -1,10 +1,10 @@
 # githubcopilottest
 
-## Abut This Projcet
+## About This Project
 
-This is a tset repositry for GitHub Copilot feautres.
+This is a test repository for GitHub Copilot features.
 
-### Feautres
-- Copilot codign agent tset
-- Code reveiw with Copilot
-- Copilot Memroy management
+### Features
+- Copilot coding agent test
+- Code review with Copilot
+- Copilot Memory management
